@@ -20,7 +20,6 @@ import graphics.ZooPanel;
 /**
  * Represents a plant
  * 
- * @author or
  *
  */
 public abstract class Plant implements IEdible, ILocatable, IDrawable {
