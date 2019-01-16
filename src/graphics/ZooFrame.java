@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 
 /**
- @author אור
  */
 public class ZooFrame extends JFrame implements ActionListener{
     private static final long serialVersionUID = 1L;
