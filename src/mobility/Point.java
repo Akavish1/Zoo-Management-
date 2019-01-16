@@ -3,7 +3,6 @@ package mobility;
 /**
  * Represents a point
  * 
- * @author or
  *
  */
 public class Point {
