@@ -9,7 +9,6 @@ import java.awt.event.ActionListener;
 import graphics.ZooPanel;
 
 /**
- @author אור
  */
 public class AddAnimalDialog extends JDialog implements ActionListener{
     private static final long serialVersionUID = 1L;
