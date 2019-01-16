@@ -1,7 +1,7 @@
 package food;
 
 /**
- * @author or
+ * 
  *
  */
 public interface IEdible {
