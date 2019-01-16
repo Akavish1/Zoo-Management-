@@ -6,7 +6,7 @@ import graphics.ZooPanel;
 
 
 /**
- * @author or
+ * 
  *
  */
 public class Lion extends AnimalThatRoars {
