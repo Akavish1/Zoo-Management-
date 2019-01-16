@@ -7,7 +7,6 @@ import graphics.ZooPanel;
 import utilities.MessageUtility;
 
 /**
- @author אור
  */
 public class Meat extends Plant{
     public Meat(ZooPanel opanel){
