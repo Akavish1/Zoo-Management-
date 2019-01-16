@@ -4,7 +4,7 @@ import food.EFoodType;
 import food.IEdible;
 
 /**
- * @author or
+ * 
  *
  */
 public class Omnivore implements IDiet {
