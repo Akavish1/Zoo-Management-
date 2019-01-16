@@ -18,7 +18,7 @@ import javax.imageio.ImageIO;
 
 /**
  * 
- * @author or
+ * 
  *
  */
 public abstract class Animal extends Mobile implements IEdible, IDrawable, IAnimalBehavior, Runnable {
