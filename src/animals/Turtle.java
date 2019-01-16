@@ -8,7 +8,7 @@ import graphics.ZooPanel;
 
 
 /**
- * @author or
+ * 
  *
  */
 public class Turtle extends AnimalThatChews {
