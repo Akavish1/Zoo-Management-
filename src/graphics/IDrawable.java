@@ -6,7 +6,6 @@ import java.awt.*;
 
 /**
  *
- * @author אור
  */
 
 
