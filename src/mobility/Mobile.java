@@ -3,7 +3,6 @@ package mobility;
 /**
  * Represents a mobile object
  * 
- * @author or
  *
  */
 public abstract class Mobile implements ILocatable {
