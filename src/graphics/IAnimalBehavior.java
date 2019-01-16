@@ -5,7 +5,6 @@ package graphics;
 
 /**
  *
- * @author אור
  */
 
 
