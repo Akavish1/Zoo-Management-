@@ -17,7 +17,7 @@ import animals.*;
 
 
 /**
- @author אור
+ @
  */
 public class ZooPanel extends JPanel implements ActionListener, Runnable{
     private static final long serialVersionUID = 1L;
