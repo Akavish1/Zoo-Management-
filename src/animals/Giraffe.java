@@ -5,7 +5,7 @@ import graphics.ZooPanel;
 
 
 /**
- * @author or
+ * 
  *
  */
 public class Giraffe extends AnimalThatChews {
