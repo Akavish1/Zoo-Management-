@@ -3,7 +3,7 @@ package food;
 /**
  * enumeration of Food Types
  * 
- * @author or
+ * 
  *
  */
 public enum EFoodType {
