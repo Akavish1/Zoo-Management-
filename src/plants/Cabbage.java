@@ -4,7 +4,6 @@ import graphics.ZooPanel;
 import utilities.MessageUtility;
 
 /**
- * @author or
  *
  */
 public class Cabbage extends Plant {
